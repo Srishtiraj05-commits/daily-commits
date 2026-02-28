@@ -1,0 +1,1 @@
+[![Daily Auto Commit](https://github.com/Srishtiraj05-commits/daily-commits/actions/workflows/daily-update.yml/badge.svg)](https://github.com/Srishtiraj05-commits/daily-commits/actions/workflows/daily-update.yml)
